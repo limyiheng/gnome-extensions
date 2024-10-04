@@ -1,4 +1,4 @@
-# Gnome Extensions
+# Gnome Shell Extensions
 Released under the [Zero Clause BSD license (SPDX: 0BSD)](https://spdx.org/licenses/0BSD.html)
 
 - Touchpad Gesture Enhancement
