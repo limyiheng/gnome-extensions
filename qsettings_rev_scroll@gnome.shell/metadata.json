@@ -1,0 +1,10 @@
+{
+    "uuid": "qsettings_rev_scroll@gnome.shell",
+    "name": "Quick Settings Reverse Scrolling",
+    "description": "Reverse scrolling of volume and brightness on quick settings.",
+    "shell-version": [
+        "47",
+        "48"],
+    "url": "",
+    "version": 1
+}

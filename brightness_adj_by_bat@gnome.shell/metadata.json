@@ -1,0 +1,10 @@
+{
+    "uuid": "brightness_adj_by_bat@gnome.shell",
+    "name": "Brightness Adjustment By Battery Indicator",
+    "description": "Change screen and keyboard brightness by scrolling battery indicator.",
+    "shell-version": [
+        "47",
+        "48"],
+    "url": "",
+    "version": 1
+}

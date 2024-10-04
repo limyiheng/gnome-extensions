@@ -1,0 +1,10 @@
+{
+    "uuid": "memstatus@gnome.shell",
+    "name": "Memory Status",
+    "description": "Show available memory and free swap.",
+    "shell-version": [
+        "47",
+        "48"],
+    "url": "",
+    "version": 1
+}
